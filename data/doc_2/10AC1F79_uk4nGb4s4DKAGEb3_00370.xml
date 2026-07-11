@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>10AC1F79_uk4nGb4s4DKAGEb3_00370.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3824" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued"/><OtherTag ID="BT3825" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/><OtherTag ID="BT3826" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT3827" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1171" HEIGHT="1838" PHYSICAL_IMG_NR="170" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1171" HEIGHT="1838">
+        <TextBlock HPOS="367" VPOS="149" WIDTH="596" HEIGHT="177" ID="block_1" TAGREFS="BT3827">
+          <Shape><Polygon POINTS="367 149 367 326 963 326 963 149"/></Shape>
+          <TextLine ID="line_1" TAGREFS="LT8" BASELINE="402 191 946 196" HPOS="401" VPOS="149" WIDTH="545" HEIGHT="72">
+            <Shape><Polygon POINTS="402 191 401 210 425 217 426 217 427 217 525 211 536 218 537 218 538 218 539 219 616 219 616 218 617 218 618 218 618 217 626 210 684 215 685 215 686 215 696 211 717 218 718 218 719 218 720 218 744 211 787 211 817 220 818 220 819 220 820 220 835 212 868 220 869 220 870 221 892 221 892 220 893 220 894 220 905 212 944 213 946 196 944 156 902 159 892 152 891 152 890 152 846 152 845 152 844 152 819 159 807 151 806 151 805 151 777 151 776 151 775 151 774 151 774 152 768 157 761 152 761 151 760 151 759 151 704 151 703 151 701 151 687 158 675 150 674 150 673 150 672 150 638 157 621 150 620 150 619 150 618 150 600 157 557 152 556 152 555 152 537 157 498 150 497 150 496 150 495 150 487 157 452 157 402 149 402 191"/></Shape>
+            <String CONTENT="Haganoæ apud Iohannem Secerium." HPOS="401" VPOS="149" WIDTH="545" HEIGHT="72"/>
+          </TextLine>
+          <TextLine ID="line_2" TAGREFS="LT8" BASELINE="448 244 891 247" HPOS="447" VPOS="208" WIDTH="444" HEIGHT="60">
+            <Shape><Polygon POINTS="448 244 447 266 549 267 550 267 551 267 567 261 622 268 623 268 624 268 642 260 682 268 683 268 684 268 708 260 741 260 832 267 833 267 890 260 891 247 890 215 821 210 820 210 750 215 732 209 731 209 730 209 729 209 716 216 710 210 710 209 709 209 708 209 661 209 660 209 659 209 658 209 647 216 636 209 635 209 634 209 633 209 632 209 605 216 514 216 472 208 471 208 470 208 448 214 448 244"/></Shape>
+            <String CONTENT="Anno. M. D. XXVII." HPOS="447" VPOS="208" WIDTH="444" HEIGHT="60" WC="0.9983359409703149"/>
+          </TextLine>
+          <TextLine ID="line_3" TAGREFS="LT8" BASELINE="551 297 819 297" HPOS="551" VPOS="257" WIDTH="268" HEIGHT="62">
+            <Shape><Polygon POINTS="551 297 551 315 573 319 574 319 575 319 591 312 646 319 647 319 648 319 649 319 660 312 687 312 698 319 699 319 700 319 701 319 703 319 723 314 740 319 741 319 742 319 743 319 744 319 744 318 752 312 772 312 780 318 780 319 781 319 782 319 783 319 784 319 799 314 817 319 819 297 819 267 783 267 774 258 774 257 773 257 772 257 771 257 750 258 748 258 747 258 747 259 738 267 705 267 696 259 696 258 695 258 694 258 693 258 692 258 673 265 651 257 650 257 649 257 551 265 551 297"/></Shape>
+            <String CONTENT="Menſe Ianuario." HPOS="551" VPOS="257" WIDTH="268" HEIGHT="62" WC="0.9976675709088644"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="289" VPOS="357" WIDTH="798" HEIGHT="980" ID="block_2" TAGREFS="BT11">
+          <Shape><Polygon POINTS="1087 357 1087 1337 289 1337 289 357"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
