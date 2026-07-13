@@ -15,10 +15,26 @@
         </xsl:copy>
     </xsl:template>
     
+    <!-- for e-rara -->
+<!--    
     <xsl:template match="//sourceDoc">
         <sourceDoc xmlns="http://www.tei-c.org/ns/1.0">
             <xsl:for-each select="surface">
                 <xsl:sort select="substring-after(@xml:id, 'f')" data-type="number"/>
+                <xsl:copy-of select="."/>
+            </xsl:for-each>
+        </sourceDoc>
+    </xsl:template>
+    -->
+    
+    <!-- for mdz    -->
+    <xsl:template match="//sourceDoc"> 
+        <!-- Create the output element -->
+        <sourceDoc xmlns="http://www.tei-c.org/ns/1.0">
+            <xsl:for-each select="surface">
+                <!-- Sort based on the numeric part after the underscore '_' -->
+                <xsl:sort select="substring-after(@xml:id, '_')" data-type="number"/>                
+                <!-- Copy the entire surface element to the output -->
                 <xsl:copy-of select="."/>
             </xsl:for-each>
         </sourceDoc>
@@ -31,9 +47,6 @@
         </body>
     </xsl:template>
     
-
-    
-
- 
+   
     
 </xsl:stylesheet>
