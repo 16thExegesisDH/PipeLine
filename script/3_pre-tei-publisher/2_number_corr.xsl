@@ -32,9 +32,9 @@
     </xsl:template>
 
 
-        <!-- Identity transform (copies everything by default) --> 
+     <!--   <!-\- Identity transform (copies everything by default) -\-> 
     <xsl:template match="fw[@type='NumberingZone']">
-        <!-- mettre à jour le numéro de page en fonction du document : ici la pagination commence à la page 2, donc + 2 (count commence par défaut de 0) -->
+        <!-\- mettre à jour le numéro de page en fonction du document : ici la pagination commence à la page 2, donc + 2 (count commence par défaut de 0) -\->
         <xsl:variable name="num"
             select="count(preceding::fw[@type='NumberingZone']) + 1"/>  
         
@@ -50,7 +50,7 @@
                 </reg>
             </choice>
         </xsl:copy>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="ab[@type='MainZone-P' or @type='MainZone-Head']">
         

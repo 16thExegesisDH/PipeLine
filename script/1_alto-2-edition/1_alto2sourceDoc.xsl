@@ -29,7 +29,7 @@
     
     <!--for mdz-->  
     
-    <xsl:variable name="document">Aretius_C1-6</xsl:variable>
+    <xsl:variable name="document">Bugenhagen_1-Tim_C1-6</xsl:variable>
     <xsl:variable name="folderName">doc_1</xsl:variable>
     <xsl:variable name="iiif-domain">iiif:</xsl:variable>
     <xsl:variable name="serveur">https://api.digitale-sammlungen.de/iiif/</xsl:variable>
@@ -37,12 +37,6 @@
     <xsl:variable name="endfile">/full/0/default.jpg</xsl:variable>
     
     
-    
-    <!--  <xsl:variable name="document">Aretius_C1-6</xsl:variable>
-        <xsl:variable name="folderName">doc_1</xsl:variable>
-        <xsl:variable name="nma">https://api.digitale-sammlungen.de/</xsl:variable>
-        <xsl:variable name="iiif-name">iiif/image/v2/</xsl:variable>
-        <xsl:variable name="endfile">/full/0/default.jpg</xsl:variable>-->
     
     
     <!-- Changer le "path" si nécessaire : '/Users/sonia/Desktop/SETAF_ALTO2TEI/pipeline/data_alto/' -->
